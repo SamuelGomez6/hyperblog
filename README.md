@@ -1,4 +1,4 @@
-# hyperblog :fa-heart:
+# hyperblog 
 Hola este es un blog de práctica primera vez diseñando mi readme.md
 
 >Estoy tomando el curso de platzi profesional de git y github y ahi es donde e aprendido las mayorias de las cosas sobre git y es muy buen curos los invito ;)
